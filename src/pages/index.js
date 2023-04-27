@@ -59,6 +59,7 @@ export default function Home() {
         <br />
         <br />
         <h1 className="text-center">Movie Genere Search Prototype</h1>
+        <h3 className="text-center">Team Miracle Workers</h3>
         <input
           type="text"
           placeholder="Search for genre"
